@@ -11,7 +11,7 @@ class Ideone
 	{
 		{
 		{
-		int word=0;
+		int word=1;
 	Scanner sc=new Scanner(System.in);
 	String n=sc.nextLine();
 	for(int i=0;i<n.length();i++)
