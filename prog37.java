@@ -14,9 +14,6 @@ class Ideone
  
       x = sc.nextInt();
       y = sc.nextInt();
- 
-      System.out.println(x+" "+y);
- 
       temp = x;
       x = y;
       y = temp;
