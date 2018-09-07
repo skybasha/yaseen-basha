@@ -25,7 +25,7 @@ class Ideone
         remainder = sum%10;
         int digit = sum%10;
         sum = sum/10;
-        System.out.println(digit);
+        System.out.println(digit +" ");
         }
 	}
 }
