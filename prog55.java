@@ -12,7 +12,7 @@ class Ideone
 	 Scanner sc=new Scanner(System.in);
 	 int i=sc.nextInt();
 	 int j=sc.nextInt();
-	 int sum=i+j;
+	 int sum=i*j;
 	 if(sum%2==0)
 	 {
 	 	System.out.println("even");
