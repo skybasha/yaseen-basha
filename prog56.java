@@ -15,11 +15,11 @@ class Ideone
 	String alphaRegex=".*[a-z].*";
 	if(s.matches(numRegex)&&s.matches(alphaRegex))
 	{
-		System.out.println("yes");
+		System.out.println("Yes");
 	}
 	else
 	{
-		System.out.println("no");
+		System.out.println("No");
 	}
 		
 	}
