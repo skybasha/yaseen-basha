@@ -9,13 +9,11 @@ class Ideone
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-      int i=0;
-	if(System.out.printf("hello world.")==null)
-{
-}
-for(i=1;i<1;System.out.printf("hello world."))
-{
-i++;
-}
-}
+ Scanner sc=new Scanner(System.in);
+      String s=sc.next();
+      String s2=sc.next();
+      if(System.out.printf(s+" "+s2)!=null)
+     {
+      }		// your code goes here
+	}
 }
